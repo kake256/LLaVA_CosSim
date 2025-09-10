@@ -1,0 +1,9 @@
+category,most_common_top1_word,frequency,count,total_samples
+cat,,0.95,95,100
+dog,,0.95,95,100
+car,,0.99,99,100
+bicycle,,0.97,97,100
+person,,0.84,84,100
+apple,,0.9605263157894737,73,76
+chair,,0.98,98,100
+book,,0.97,97,100
